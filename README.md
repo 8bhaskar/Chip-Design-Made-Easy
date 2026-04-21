@@ -1,5 +1,7 @@
 # OpenROAD GUI - Linux/WSL AppImage Installation Guide
 
+Visit this link to get the build and start with your chip design journey: https://drive.google.com/drive/folders/10rsNmi84GktGHE23wIuOKwfImv1B_dBn?usp=drive_link
+
 ## How the AppImage Works
 
 An **AppImage** is a self-contained, portable application format for Linux systems. Unlike traditional software installation, an AppImage bundles the entire application, its dependencies, and runtime libraries into a single executable file. This file can be run directly without requiring installation or root privileges.
